@@ -105,7 +105,25 @@ Contributions are welcome. Read `CONTRIBUTING.md`, follow the documented data-qu
 
 ## Citation
 
-Citation metadata is provided in `CITATION.cff`.
+If you use this software, workflow, source code, documentation, or derived methodology in research, education, or a technical project, please cite it as follows:
+
+> Kowsari, F. (2026). *NYC Yellow Taxi Data Cleaning with Pandas, Polars, PyJanitor, and DuckDB* [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21403045
+
+### DOI
+
+[https://doi.org/10.5281/zenodo.21403045](https://doi.org/10.5281/zenodo.21403045)
+
+### BibTeX
+
+```bibtex
+@software{kowsari_nyc_yellow_taxi_data_cleaning_2026,
+  author    = {Kowsari, Faramarz},
+  title     = {NYC Yellow Taxi Data Cleaning with Pandas, Polars, PyJanitor, and DuckDB},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21403045},
+  url       = {https://doi.org/10.5281/zenodo.21403045}
+}
 
 ## Author
 
