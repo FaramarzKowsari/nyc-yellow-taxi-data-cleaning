@@ -1,6 +1,8 @@
 
 # NYC Yellow Taxi Data Cleaning: Pandas, Polars, PyJanitor and DuckDB
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21403045.svg)](https://doi.org/10.5281/zenodo.21403045)
+
 A production-oriented, reproducible, and audit-friendly data-cleaning project built on the official New York City Taxi & Limousine Commission (TLC) Yellow Taxi Trip Records.
 
 ## Overview
