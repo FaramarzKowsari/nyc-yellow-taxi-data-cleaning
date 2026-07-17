@@ -1,20 +1,46 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite it using the metadata below."
+
+message: "If you use this software, please cite it using the metadata below."
+
 title: "NYC Yellow Taxi Data Cleaning with Pandas, Polars, PyJanitor, and DuckDB"
+
 type: software
+
 authors:
   - family-names: "Kowsari"
     given-names: "Faramarz"
-version: 1.0.0
+    orcid: "https://orcid.org/0000-0003-1692-0453"
+
+version: 1.0.1
+
 date-released: 2026-07-17
-license: MIT
+
+doi: "10.5281/zenodo.21403045"
+
 repository-code: "https://github.com/FaramarzKowsari/nyc-yellow-taxi-data-cleaning"
+
+url: "https://doi.org/10.5281/zenodo.21403045"
+
+abstract: >-
+  A production-oriented and reproducible data-cleaning project for official
+  NYC Yellow Taxi Trip Records. The repository implements equivalent cleaning
+  workflows with Pandas, PyJanitor, and Polars, followed by independent
+  validation with DuckDB SQL. It includes documented anomaly rules, audit
+  reports, automated tests, Jupyter notebooks, sample data, and continuous
+  integration workflows.
+
+license: MIT
+
 keywords:
-  - data-cleaning
-  - data-engineering
+  - data cleaning
+  - data engineering
+  - data quality
   - pandas
   - polars
   - pyjanitor
   - duckdb
   - parquet
-  - nyc-taxi
+  - Python
+  - NYC Yellow Taxi
+  - open data
+  - reproducible research
