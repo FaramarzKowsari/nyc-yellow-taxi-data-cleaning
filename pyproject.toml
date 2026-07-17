@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nyc-yellow-taxi-data-cleaning"
+version = "1.0.0"
+description = "Reproducible NYC Yellow Taxi data-cleaning pipelines with Pandas, PyJanitor, Polars, and DuckDB."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Faramarz Kowsari"}]
+keywords = ["data-cleaning", "data-engineering", "pandas", "polars", "duckdb", "nyc-taxi"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+pythonpath = ["."]

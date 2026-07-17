@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: NYC TLC official data portal
+    url: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+    about: Verify source data availability and official documentation.

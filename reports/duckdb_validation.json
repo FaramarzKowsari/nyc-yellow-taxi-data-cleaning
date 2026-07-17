@@ -1,0 +1,9 @@
+{
+  "row_count": 4,
+  "hard_invalid_rows": 0,
+  "nonpositive_duration": 0,
+  "invalid_zones": 0,
+  "duplicate_rows": 0,
+  "suspicious_rows": 3,
+  "passed": true
+}

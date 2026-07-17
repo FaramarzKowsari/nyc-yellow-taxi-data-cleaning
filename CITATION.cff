@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "NYC Yellow Taxi Data Cleaning with Pandas, Polars, PyJanitor, and DuckDB"
+type: software
+authors:
+  - family-names: "Kowsari"
+    given-names: "Faramarz"
+version: 1.0.0
+date-released: 2026-07-17
+license: MIT
+repository-code: "https://github.com/FaramarzKowsari/nyc-yellow-taxi-data-cleaning"
+keywords:
+  - data-cleaning
+  - data-engineering
+  - pandas
+  - polars
+  - pyjanitor
+  - duckdb
+  - parquet
+  - nyc-taxi

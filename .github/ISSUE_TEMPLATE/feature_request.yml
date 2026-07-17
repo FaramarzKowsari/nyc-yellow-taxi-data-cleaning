@@ -1,0 +1,22 @@
+name: Feature request
+description: Propose a new capability, validation, or documented cleaning rule.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and data-quality rationale
+      description: Link the proposal to official schema documentation or reproducible domain logic.

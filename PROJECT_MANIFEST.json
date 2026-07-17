@@ -1,0 +1,146 @@
+[
+  {
+    "path": ".github/workflows/tests.yml",
+    "bytes": 276
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 150
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 696
+  },
+  {
+    "path": "Makefile",
+    "bytes": 630
+  },
+  {
+    "path": "README.md",
+    "bytes": 3692
+  },
+  {
+    "path": "data/processed/README.md",
+    "bytes": 117
+  },
+  {
+    "path": "data/processed/sample_cleaned_pandas.parquet",
+    "bytes": 22705
+  },
+  {
+    "path": "data/processed/sample_cleaned_pandas.parquet.audit.json",
+    "bytes": 213
+  },
+  {
+    "path": "data/processed/sample_cleaned_polars.parquet",
+    "bytes": 12727
+  },
+  {
+    "path": "data/processed/sample_cleaned_polars.parquet.audit.json",
+    "bytes": 203
+  },
+  {
+    "path": "data/raw/README.md",
+    "bytes": 94
+  },
+  {
+    "path": "data/sample/yellow_taxi_dirty_sample.csv",
+    "bytes": 1160
+  },
+  {
+    "path": "data/sample/yellow_taxi_dirty_sample.parquet",
+    "bytes": 12731
+  },
+  {
+    "path": "docs/data_dictionary.md",
+    "bytes": 468
+  },
+  {
+    "path": "docs/limitations.md",
+    "bytes": 560
+  },
+  {
+    "path": "docs/methodology.md",
+    "bytes": 1041
+  },
+  {
+    "path": "docs/reproducibility.md",
+    "bytes": 379
+  },
+  {
+    "path": "notebooks/01_data_acquisition.ipynb",
+    "bytes": 1121
+  },
+  {
+    "path": "notebooks/02_data_profiling.ipynb",
+    "bytes": 1156
+  },
+  {
+    "path": "notebooks/03_pandas_pyjanitor_cleaning.ipynb",
+    "bytes": 1239
+  },
+  {
+    "path": "notebooks/04_polars_cleaning.ipynb",
+    "bytes": 999
+  },
+  {
+    "path": "notebooks/05_duckdb_validation.ipynb",
+    "bytes": 918
+  },
+  {
+    "path": "notebooks/06_equivalence_and_benchmark.ipynb",
+    "bytes": 1464
+  },
+  {
+    "path": "reports/duckdb_validation.json",
+    "bytes": 162
+  },
+  {
+    "path": "reports/full_month_results_PENDING.md",
+    "bytes": 589
+  },
+  {
+    "path": "reports/sample_audit_report.md",
+    "bytes": 1037
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 139
+  },
+  {
+    "path": "sql/validation_queries.sql",
+    "bytes": 518
+  },
+  {
+    "path": "src/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "src/cleaning_rules.py",
+    "bytes": 515
+  },
+  {
+    "path": "src/download_data.py",
+    "bytes": 1216
+  },
+  {
+    "path": "src/duckdb_validation.py",
+    "bytes": 1309
+  },
+  {
+    "path": "src/generate_sample.py",
+    "bytes": 1660
+  },
+  {
+    "path": "src/pandas_pipeline.py",
+    "bytes": 2774
+  },
+  {
+    "path": "src/polars_pipeline.py",
+    "bytes": 3143
+  },
+  {
+    "path": "tests/test_pipeline.py",
+    "bytes": 929
+  }
+]

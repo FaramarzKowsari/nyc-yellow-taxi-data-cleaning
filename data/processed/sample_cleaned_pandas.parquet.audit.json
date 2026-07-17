@@ -1,0 +1,10 @@
+{
+  "engine": "pandas+pyjanitor",
+  "rows_input": 9,
+  "duplicates_removed": 1,
+  "rows_after_dedup": 8,
+  "hard_invalid_rows": 4,
+  "rows_output": 4,
+  "suspicious_rows_retained": 3,
+  "runtime_seconds": 0.0319
+}
