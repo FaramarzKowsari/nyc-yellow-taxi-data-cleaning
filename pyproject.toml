@@ -16,3 +16,10 @@ keywords = ["data-cleaning", "data-engineering", "pandas", "polars", "duckdb", "
 testpaths = ["tests"]
 addopts = "-q"
 pythonpath = ["."]
+
+[project.urls]
+Homepage = "https://github.com/FaramarzKowsari/nyc-yellow-taxi-data-cleaning"
+Repository = "https://github.com/FaramarzKowsari/nyc-yellow-taxi-data-cleaning"
+Documentation = "https://github.com/FaramarzKowsari/nyc-yellow-taxi-data-cleaning#readme"
+DOI = "https://doi.org/10.5281/zenodo.21403045"
+Zenodo = "https://doi.org/10.5281/zenodo.21403045"
