@@ -23,3 +23,17 @@ Kowsari, F. (2026). *NYC Yellow Taxi Data Cleaning with Pandas, Polars, PyJanito
   doi       = {10.5281/zenodo.21403045},
   url       = {https://doi.org/10.5281/zenodo.21403045}
 }
+
+Repository
+
+GitHub repository:
+
+https://github.com/FaramarzKowsari/nyc-yellow-taxi-data-cleaning
+
+Author
+
+Faramarz Kowsari
+ORCID: https://orcid.org/0000-0003-1692-0453
+
+
+بعد در بخش Citation فایل README این خط را نیز اضافه کن:
